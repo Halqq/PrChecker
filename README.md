@@ -12,7 +12,7 @@ This can check if your java files have malware's or not
 
 Checks: 
 
-UrlChecker  
+> UrlChecker  
 WebConnectionChecker  
 EncryptChecker  
 
