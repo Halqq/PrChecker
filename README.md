@@ -7,7 +7,8 @@
 <img src="https://img.shields.io/badge/Made%20with-Java-yellow" alt="issue" />
 
 
-this can check if your java files have malware's or not
+# How to use
+This can check if your java files have malware's or not
 
 Checks: 
 
