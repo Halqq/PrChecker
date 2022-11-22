@@ -24,7 +24,3 @@ EncryptChecker
 ```java 
 java -jar PrChecker.jar <file>
 ```
-
-## Sponsor
-Ft NegroWare
-https://negroware.club/
